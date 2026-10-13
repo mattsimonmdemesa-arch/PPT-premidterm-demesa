@@ -1,1 +1,8 @@
 
+
+Name: De Mesa, Matt Simon
+Course: Se32
+Year Level: 3rd yr
+Favorite Programming Language: java, python
+Career Goal: master the programming even if the AI takes over
+
